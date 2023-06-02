@@ -47,7 +47,7 @@ public class CardTrick {
         
         System.out.println("My name is Paul, but you can call me prof, Paul or sir");
         System.out.println();
-        
+        //helllooo
         System.out.println("My career ambitions:");
         System.out.println("-- Be more active on LinkedIn");
         System.out.println("-- Have a semester with no violations of academic integrity!");
