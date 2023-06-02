@@ -9,7 +9,7 @@ package exercise1;
  * @author Paul Bonenfant Jan 25, 2022 
  */
 public class CardTrick {
-    
+    //printInfo() 
     public static void main(String[] args) {
         
         Card[] hand = new Card[7];
